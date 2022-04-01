@@ -1,0 +1,16 @@
+.main{margin: auto;}
+.bar{display: grid ;
+    background: #221E34;
+color:white ;
+margin: 0px 0px;
+    grid-template-columns: 3fr 1fr 1fr 1fr 1fr;
+}
+img{margin-left: 300px;
+padding: 30px;}
+.text{margin: auto;
+    padding: 100px;
+}
+.lower{display: grid;
+grid-template-columns: 1fr 1fr;}
+button{margin-left: auto;
+padding: 10px 199px;}
